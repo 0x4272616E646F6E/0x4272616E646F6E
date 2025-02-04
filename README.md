@@ -7,7 +7,7 @@
 - Running **Proxmox** for self-hosted applications, development, and testing.
 
 ## 🔨 Tech Stack
-- **Languages**: Assembly, Bash, Go, .NET, Python, Rust
+- **Languages**: Assembly, Bash, Go, .NET, Powershell, Python, Rust
 - **DevOps**: AWS, Docker/Podman, Kubernetes, Proxmox, Traefik
 - **Embedded**: ESP32 Development  
 - **Reverse Engineering**: x86/x64 Reverse Engineering
