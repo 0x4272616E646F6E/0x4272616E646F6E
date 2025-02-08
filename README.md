@@ -19,7 +19,7 @@
 - **Whitelistrr** - Discord bot designed to integrate with cloudflare APIs for interactive whitelisting of friends and family.
 
 ## 📫 Contact Me
-- **GitHub**: [github.com/Brandon-Oglesby](https://github.com/Brandon-Oglesby)
+- **Discord**: [discord.com/users/324316642245083147](https://discord.com/users/324316642245083147)
 
 ---
 
