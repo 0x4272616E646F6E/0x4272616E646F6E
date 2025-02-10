@@ -23,4 +23,4 @@
 
 ---
 
-⚡ *Always exploring new technologies and pushing the limits of system engineering!*
+⚡ *Always exploring new technologies and learning!*
