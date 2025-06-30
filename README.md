@@ -9,12 +9,12 @@
 
 ## 🔨 Tech Stack
 - **Languages**:  .NET, Go, Java, Python, Rust
-- **DevOps**: AWS, Docker, Kubernetes, Proxmox, Traefik
-- **Reinforcement Learning**: Pytorch, Tensorflow
+- **DevOps**: AWS, Docker, Kubernetes, Proxmox, Talos
+- **Reinforcement Learning**: Metal, OneAPI, PyTorch, TensorFlow
 - **Reverse Engineering**: x86/64 Assembly, Ghidra
 
 ## 📌 Current Projects
-- [Flux](https://github.com/0x4272616E646F6E/flux) - My single node talos cluster running on proxmox, utilizing Flux for GitOps deployment of applications and services in my homelab.
+- [Flux](https://github.com/0x4272616E646F6E/flux) – A single-node Talos Linux cluster on Proxmox, using Flux for GitOps-driven deployment of homelab applications and services.
 - [Git-Secrets-Replacer](https://github.com/DeviousLabs/git-secrets-replacer) - A tool desgined for removing secrets from git history when moving away from bad practices.
 - [Gopilot](https://github.com/DeviousLabs/discord-gopilot) – Discord AI bot with selectable models using the cloudflare AI worker APIs.
 - [Whitelistrr](https://github.com/0x4272616E646F6E/whitelisterr) - Discord bot designed to integrate with cloudflare APIs for interactive whitelisting of friends and family.
