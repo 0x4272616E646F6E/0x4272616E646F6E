@@ -10,12 +10,14 @@
 ## 🔨 Tech Stack
 - **Languages**:  .NET, Go, Java, Python, Rust
 - **DevOps**: AWS, Docker, Kubernetes, Proxmox, Talos
-- **Reinforcement Learning**: Metal, OneAPI, PyTorch, TensorFlow
+- **Reinforcement Learning**: CUDA, PPO, PyTorch, TensorFlow
 - **Reverse Engineering**: x86/64 Assembly, Ghidra
 
 ## 📌 Current Projects
 - [Homelab](https://github.com/0x4272616E646F6E/homelab) – A single-node Talos Linux cluster on Proxmox, using Flux for GitOps-driven deployment of homelab applications and services.
-- [Git-Secrets-Replacer](https://github.com/DeviousLabs/git-secrets-replacer) - A tool desgined for removing secrets from git history when moving away from bad practices.
+- [PBS-K8s-Backup](https://github.com/0x4272616E646F6E/pbs-k8s-backup) - Backup K8s PVCs to Proxmox Backup Server.
+- [0x42-Cogs](https://github.com/0x4272616E646F6E/0x42-cogs) - Discord Redbot Cogs.
+
 
 ## 📫 Contact Me
 - **Discord**: [discord.com/users/324316642245083147](https://discord.com/users/324316642245083147)
