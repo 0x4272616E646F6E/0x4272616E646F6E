@@ -3,7 +3,7 @@
 
 ## About Me
 - DevOps Engineer with a focus on best practices, security, and modern development.
-- Experienced in backend development, system-level programming, and DevOps.
+- Experienced in Backend Development, CyberSecurity, and DevOps.
 - Actively exploring reinforcement learning and reverse engineering.
 - Running **Talos** for self-hosted applications, development, and testing
 
