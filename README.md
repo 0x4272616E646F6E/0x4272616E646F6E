@@ -14,8 +14,8 @@
 - **Reverse Engineering**: x86/64 Assembly, Ghidra
 
 ## Current Projects
-- [Homelab](https://github.com/0x4272616E646F6E/homelab) – A single-node Talos Linux cluster on Proxmox, using Flux for GitOps-driven deployment of homelab applications and services.
-- [KubePBS](https://github.com/0x4272616E646F6E/kubepbs) - Backup K8s PVCs to Proxmox Backup Server.
+- [Homelab](https://github.com/0x4272616E646F6E/homelab) – A single-node Talos cluster on Proxmox, using Flux for GitOps-driven deployment of apps and services.
+- [KubePBS](https://github.com/0x4272616E646F6E/kubepbs) - Backup K8s Volumes to Proxmox Backup Server.
 - [0x42-Cogs](https://github.com/0x4272616E646F6E/0x42-cogs) - Discord Redbot Cogs.
 
 
