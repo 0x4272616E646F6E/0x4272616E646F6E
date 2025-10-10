@@ -8,7 +8,7 @@
 - Running **Talos** for self-hosted applications, development, and testing
 
 ## Tech Stack
-- **Languages**: Go, Java, Python, Rust
+- **Languages**: .NET, Go, Java, Python, Rust
 - **DevOps**: AWS, Docker, Kubernetes, Proxmox, Talos
 - **Reinforcement Learning**: CUDA, PPO, PyTorch, TensorFlow
 - **Reverse Engineering**: x86/64 Assembly, Ghidra
