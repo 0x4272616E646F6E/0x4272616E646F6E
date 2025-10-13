@@ -15,7 +15,7 @@
 
 ## Current Projects
 - [Homelab](https://github.com/0x4272616E646F6E/homelab) – A single-node Talos cluster on Proxmox, using Flux for GitOps-driven deployment of apps and services.
-- [Unifi Threat Sync](https://github.com/0x4272616E646F6E/unifi-threat-sync) - A threat feed syncronization service.
+- [Unifi Threat Sync](https://github.com/0x4272616E646F6E/unifi-threat-sync) - A threat feed synchronization service.
 - [0x42-Cogs](https://github.com/0x4272616E646F6E/0x42-cogs) - Discord Redbot Cogs.
 
 
