@@ -15,6 +15,8 @@
 
 ## Current Projects
 - [Homelab](https://github.com/0x4272616E646F6E/homelab) – A single-node Talos cluster on Proxmox, using Flux for GitOps-driven deployment of apps and services.
+- [Decision-WAF](https://github.com/0x4272616E646F6E/decision-waf) – A decision model powered WAF middleware for ingress gateways.
+
 
 ## Contact Me
 - **Discord**: [discord.com/users/324316642245083147](https://discord.com/users/324316642245083147)
