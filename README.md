@@ -8,8 +8,8 @@
 - Running **Talos** for self-hosted applications, development, and testing
 
 ## Tech Stack
-- **Languages**: .NET, Go, Java, Python, Rust
-- **DevOps**: AWS, Docker, Kubernetes, Proxmox, Talos
+- **Languages**: .NET, Go, Java, Python, Ruby, Rust
+- **DevOps**: AWS, Ansible, Docker, Kubernetes, Proxmox, Talos, Terraform
 
 ## Current Projects
 - [Homelab](https://github.com/0x4272616E646F6E/homelab) – A single-node Talos cluster on Proxmox, using Flux for GitOps-driven deployment of apps and services.
